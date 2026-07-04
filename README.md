@@ -17,7 +17,7 @@
 <div align="center">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,java,aws,ec2,git,linux,postman,docker&perline=6" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,java,aws,nextjs,git,linux,postman,docker&perline=6" alt="Tech Stack" />
   </a>
 </div>
 
